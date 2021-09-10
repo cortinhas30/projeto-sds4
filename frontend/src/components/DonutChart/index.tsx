@@ -24,14 +24,6 @@ const DonutChart = () => {
             });
     }, []);
 
-
-
-
-    //  const mockData = {
-    //    series: [477138, 499928, 444867, 220426, 473088],
-    //  labels: ['Jolyne kujo', 'Dio Brando', 'Joseph Joestar', 'Giorno Giovanna', 'Jotaro Kuzo']
-    // }
-
     const options = {
         legend: {
             show: true
